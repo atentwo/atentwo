@@ -1,7 +1,11 @@
 ## I'm aten!
----
-- currently learning math and cs!
+### What do I do?
+- currently learning math and cs
+- programming, sometimes!
 
+### Hobbies
+- typesetting
+- outreach
 <!--
 **atentwo/atentwo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
