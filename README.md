@@ -4,8 +4,8 @@
 - programming, sometimes!
 
 ### Hobbies
-- typesetting
-- outreach
+- typesetting stuff
+
 <!--
 **atentwo/atentwo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
